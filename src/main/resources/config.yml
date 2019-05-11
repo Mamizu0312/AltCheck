@@ -1,0 +1,6 @@
+mysql:
+  host: localhost
+  user: USER
+  pass: PASS
+  port: 3306
+  db: DB

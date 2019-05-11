@@ -1,0 +1,7 @@
+name: AltCheck
+version: ${project.version}
+main: com.github.mamizu0312.altcheck.AltCheck
+api-version: 1.13
+commands:
+  altcheck:
+    description: main command.
